@@ -1,0 +1,8 @@
+__pycache__/
+.env
+venv/
+*.pyc
+*.db
+.idea/
+.vscode/
+path.txt
