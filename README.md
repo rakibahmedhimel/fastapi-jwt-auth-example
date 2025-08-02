@@ -45,12 +45,12 @@ database.py – DB engine and session
 hashing.py – Password hashing
 
 📸 Screenshots
+<img width="1366" height="728" alt="99" src="https://github.com/user-attachments/assets/f7d57ca2-f37c-44f5-b49c-959dee4bbdc3" />
 
 
 📎 Author
 Rakib Ahmed Himel
 LinkedIn
-
 
 🏷️ Tags
 #fastapi #jwt #backenddevelopment #authentication
